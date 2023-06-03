@@ -1,4 +1,4 @@
-# real-time-pothole-detection
+# Real-Time Pothole Detection in Raspberry Pi 4
 
 For course of Capstone Design (1), mechanical engineering in Chung-Ang University.
 
@@ -18,3 +18,11 @@ We adopt YoloX, which provides real-time detection and 'nano-sized' network(extr
 
 2. 'https://Roboflow.com' provides public dataset of potholes. Be sure to download as 'VOC' format, which annotations(.xml) fits to YoloX bounding box structure. If you already have data and corresponding bounding box, you don't have to download.
 
+
+
+# Result
+
+
+
+
+# Acknowledgement
