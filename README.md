@@ -1,4 +1,4 @@
-# Real-Time Pothole Detection in Raspberry Pi 4
+# Integrating Real-Time Pothole and Lane Detection in Raspberry Pi 4
 Taesun Yeom, Hyunjun Shin (Advised by Prof. Seokwon Lee)
 
 For course of Capstone Design (1) (2023-1), mechanical engineering in Chung-Ang University.
